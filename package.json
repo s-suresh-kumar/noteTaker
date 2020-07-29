@@ -2,7 +2,7 @@
   "name": "notetaker",
   "version": "1.0.0",
   "description": "App with which user can save, show and delete notes.",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
