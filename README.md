@@ -4,7 +4,7 @@
 
 [![Thumbnail](assets/images/noteTaker-thumbnail.jpg)](https://agile-everglades-01445.herokuapp.com/)
 
-[noteTaker walkthru video](https://drive.google.com/file/d/1nPlVIOv2-6reW6Xy9XvoDHafyBFrlbt6/view?usp=sharing)
+[noteTaker walkthru video](https://drive.google.com/drive/u/1/folders/1zVc1CtDZp2PpXwULSME2ZVMwC6jKzKpp)
 
 #### App In Action
 
