@@ -1,4 +1,4 @@
-[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # Note Taker
 
@@ -46,7 +46,7 @@ There is a deployed version available in Heroku. The url for the deployed app is
 
 ## License
 
-This project is licensed under the [ISC](https://opensource.org/licenses/ISC) License.
+This project is licensed under the [MIT](https://opensource.org/licenses/MIT) License.
 
 ## Contribute
 
