@@ -2,7 +2,7 @@
 
 # Note Taker
 
-[![Thumbnail](assets/images/noteTaker-thumb.JPG)](https://github.com/s-suresh-kumar/noteTaker)
+[![Thumbnail](assets/images/noteTaker-thumbnail.jpg)](https://agile-everglades-01445.herokuapp.com/)
 
 [noteTaker walkthru video](https://drive.google.com/file/d/1nPlVIOv2-6reW6Xy9XvoDHafyBFrlbt6/view?usp=sharing)
 
