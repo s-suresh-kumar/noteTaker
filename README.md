@@ -8,7 +8,7 @@
 
 #### App In Action
 
-![App in action](assets/images/noteTaker-compressed.gif)
+![App in action](assets/images/noteTaker-walkthru.gif)
 
 ## Table of Contents
 
