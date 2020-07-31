@@ -54,10 +54,11 @@ Please use my e-mail to contact me on how to contribute to this project.
 
 ## Tests
 
-There are no automated tests written for this app. However it is easy to launch the app and answer the questions, at the end team.html will be generated at the ./output directory.
+There are no automated tests written for this app. However it is easy to launch the app by going to https://agile-everglades-01445.herokuapp.com/, Once the get started button is clicked you will be taken to notes.html where all the saved notes if any are displayed. It is easy to view, delete and create a new note easily by following instructions above. Saved notes persist across visits to the app (page).
 
 ## Questions
 
-https://github.com/s-suresh-kumar
+Please send your questions via e-mail or via my github profile.
 
+https://github.com/s-suresh-kumar
 suresh01@yahoo.com
